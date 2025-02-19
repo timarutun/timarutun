@@ -26,7 +26,7 @@ I'm always open to new opportunities and collaborations! If you're working on a 
 ## 📫 How to Reach Me
 
 - Email: [arutiunian.timur@yahoo.com](mailto:arutiunian.timur@yahoo.com)
-- LinkedIn: [Timur's LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/timur-arutiunian-a850a1318/))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/timur-arutiunian-a850a1318/)
 
 ## 🎮 Hobbies & Interests
 
