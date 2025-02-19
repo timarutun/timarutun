@@ -35,11 +35,3 @@ When I'm not coding, you can find me exploring the vast world of **Skyrim** or d
 ## 🔥 Fun Fact
 
 I once spent an entire weekend trying to optimize the sleep cycle for my app—turns out, sleep tracking can be a *bit* addictive. 😅
-
-## 📊 My GitHub Stats
-
-![Timur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timarutun&show_icons=true&count_private=true&hide_title=true)
-
-## 🛠️ GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=timarutun)
