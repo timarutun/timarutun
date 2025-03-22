@@ -26,7 +26,7 @@ Check out some of my work:
 
 ## 💼 Open to Work  
 
-I'm currently looking for a **full-time iOS developer position**. If you're hiring or know of any exciting opportunities, feel free to reach out. Let's build something amazing together!
+I'm currently looking for a **full-time/half-time iOS developer position**. If you're hiring or know of any exciting opportunities, feel free to reach out. Let's build something amazing together!
 
 ## 📫 How to Reach Me
 
