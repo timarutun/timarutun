@@ -35,4 +35,4 @@ I'm currently looking for a **full-time/half-time iOS developer position**. If y
 
 ## 🎮 Hobbies & Interests
 
-When I'm not coding, you can find me exploring the vast world of **Skyrim** or diving into the rich lore of **Warhammer 40,000**. I'm always up for a good game or a deep discussion about my favorite universes.
+When I'm not coding, you can find me plating video games or diving into the rich lore of **Warhammer 40,000**. I'm always up for a good game or a deep discussion about my favorite universes.
