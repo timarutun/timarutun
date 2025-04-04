@@ -11,7 +11,7 @@ I'm an iOS developer passionate about creating intuitive, user-friendly apps. I 
 
 Here are the tools I use to bring ideas to life:
 
-- **iOS Development**: Swift, SwiftUI, UIKit
+- **iOS Development**: Swift, SwiftUI, UIKit, XCode 
 - **Data Storage**: Core Data, Realm
 - **Concurrency**: Swift Concurrency, Async/Await
 - **Networking**: REST APIs, JSON
