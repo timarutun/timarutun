@@ -24,9 +24,11 @@ Check out some of my work:
 - [**SleepMate**](https://github.com/timarutun/SleepTracker) – Your personal sleep tracker that helps you monitor and improve your sleep quality.
 - [**Nutriscope**](https://github.com/timarutun/ProductScanner) – A smart nutrition tracker that helps you stay on top of your health goals.
 
-## 💼 Open to Work  
+## 💼 Open to Work
 
-I'm currently looking for a **full-time/half-time iOS developer position**. If you're hiring or know of any exciting opportunities, feel free to reach out. Let's build something amazing together!
+I'm currently seeking a **full-time or part-time iOS developer position**.  
+If you're hiring or know of any exciting opportunities, feel free to reach out.  
+I'm passionate about building beautiful and functional apps — let's create something great together!
 
 ## 📫 How to Reach Me
 
