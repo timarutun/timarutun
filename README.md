@@ -26,7 +26,7 @@ Check out some of my work:
 
 ## 💼 Open to Work
 
-I'm currently seeking a **full-time or part-time iOS developer position**.  
+I'm currently seeking a **part-time iOS developer internship**.  
 If you're hiring or know of any exciting opportunities, feel free to reach out.  
 I'm passionate about building beautiful and functional apps — let's create something great together!
 
